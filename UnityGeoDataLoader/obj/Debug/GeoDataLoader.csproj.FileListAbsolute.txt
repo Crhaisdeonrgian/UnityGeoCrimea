@@ -1,0 +1,2 @@
+/Users/admin/RiderProjects/UnityGeoDataLoader/obj/Debug/GeoDataLoader.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/UnityGeoDataLoader/obj/Debug/GeoDataLoader.csproj.CoreCompileInputs.cache
